@@ -1,1 +1,1 @@
-Repository for numerical algorithms in Python, C++ and Julia
+Repository for numerical algorithms in Python, C++ and Rust
